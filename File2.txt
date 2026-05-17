@@ -1,4 +1,5 @@
 This File is going to deal with the design details of the Product
 Design details
 Logo Changes added
+360 logo changes added
 Customer Page Design changes
