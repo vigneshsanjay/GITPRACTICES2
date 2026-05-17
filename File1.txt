@@ -1,3 +1,5 @@
 This File is going to deal with the functionality of the Product
 Functionality details
 1. Login Functionality
+2. Customer Page Functionality
+
